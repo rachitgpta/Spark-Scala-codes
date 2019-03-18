@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Documents/Spark-SCALA/spark-in-practice-scala" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/extract/recfun" value="PREVIEW" />
+            <entry key="/media/rachit/New Volume/SCALA_SPARK/Git_Repo/scala-basics14" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
